@@ -1,1 +1,3 @@
-# data-science-projects
+|Project name|Goal|Used libraries|Stage|
+|:-----------|:---|:-------------|:----|
+||||
